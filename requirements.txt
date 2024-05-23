@@ -1,0 +1,9 @@
+gradio
+huggingface_hub
+transformers
+accelerate
+python-dotenv
+torch
+torchvision
+torchaudio
+SentencePiece
